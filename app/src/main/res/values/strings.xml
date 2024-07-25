@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MindSage</string>
+    <string name="logo">Logo</string>
+    <string name="App_Description">Your personal mental health companion</string>
+    <string name="email">Email</string>
+    <string name="First_Name">First Name</string>
+    <string name="e_g_doe">e.g. Doe</string>
+    <string name="FirstName">e.g. John</string>
+    <string name="LastName_label">Last Name</string>
+    <string name="emaiHint">johndoe@gmail.com</string>
+    <string name="apple_signup">apple_signup</string>
+    <string name="fb_signup">fb_signup</string>
+    <string name="google_signup">google_signup</string>
+    <string name="chat">Chat</string>
+    <string name="daily_affirmations">Daily Affirmations</string>
+    <string name="privacy_settings">Privacy Settings</string>
+    <string name="feedback_form">Feedback Form</string>
+    <string name="user_account">User Account</string>
+    <string name="how_can_i_assist_you_today">How can I assist you today?</string>
+    <string name="your_email_address_hint">Your Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="back_button">Back Button</string>
+</resources>

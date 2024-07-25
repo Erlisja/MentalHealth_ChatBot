@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122795445713",
+    "project_id": "mindsage-project",
+    "storage_bucket": "mindsage-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122795445713:android:261cf31abc5068d0d764f0",
+        "android_client_info": {
+          "package_name": "com.example.mindsage_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnZw5-K_4WGu7oV5Vk4YZ678Hn4Vn8uZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

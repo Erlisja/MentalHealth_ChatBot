@@ -1,0 +1,13 @@
+<resources>
+<color name="colorPrimary">#5A639C</color>
+<color name="colorPrimaryDark">#4C557D</color>
+<color name="colorAccent">#9AC1F0</color>
+<color name="colorSecondary">#7776B3</color>
+<color name="colorSecondaryVariant">#9B86BD</color>
+    <color name="primaryButtonColor">#D3D9FF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#050505</color>
+    <color name="grey">#898787</color>">
+
+<!-- Additional colors if needed -->
+</resources>
