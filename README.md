@@ -75,10 +75,6 @@ Here's a video / GIF that demos all of the app's implemented features:
 <img src='https://www.dropbox.com/scl/fi/x94cy9rdzbpdxnnc83cif/MindSage.gif?rlkey=6ebhpcxwy8y6miq7zq7i1vxs5&st=996e83y4&dl=0' title = 'Video Demo' width='' alt='Video Demo' />
 
 
-![Demo1](https://github.com/user-attachments/assets/d5b313c4-aa9a-4d52-949d-68cbeb13bcba)
-
-
-
 
 ## Contributing
 Contributions are welcome! Please read the CONTRIBUTING.md file for more information on how to get started.
