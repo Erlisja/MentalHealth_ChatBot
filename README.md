@@ -74,9 +74,7 @@ The chatbot is fine-tuned using prompt engineering techniques to ensure response
 Here's a video / GIF that demos all of the app's implemented features:
 <img src='https://www.dropbox.com/scl/fi/x94cy9rdzbpdxnnc83cif/MindSage.gif?rlkey=6ebhpcxwy8y6miq7zq7i1vxs5&st=996e83y4&dl=0' title = 'Video Demo' width='' alt='Video Demo' />
 
-https://github.com/user-attachments/assets/15f30b54-c442-4443-9ed8-06d86df25e02
-
-
+https://github.com/user-attachments/assets/0a78424c-7bc4-4bd8-ac1a-b962b35019a1
 
 
 ## Contributing
